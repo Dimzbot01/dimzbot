@@ -14,17 +14,14 @@
  
 </div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/justpiple/whatsapp-bot/)
-
-[![Run on Repl.it](https://repl.it/badge/github/justpiple/whatsapp-bot)](https://repl.it/github/justpiple/whatsapp-bot)
-
 
 ### Install ⬇️
 
 ```bash
-> git clone https://github.com/KurrXd/kurr-X-trash
-> cd kurr-X-trash
+> git clone https://github.com/KurrXd/kurrxd
+> cd kurrxd
 > npm i
+> npm start
 ```
 ### For termux users before running the above command write this command
 ```bash
